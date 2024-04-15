@@ -1,7 +1,7 @@
 vetor=[]
 tamVetor = int(input("Digite o tamanho do seu vetor: "))
 for i in range(tamVetor):
-  vetor.append(float(input("digite um número: ")))
+  vetor.append(float(input("Digite um número: ")))
 
 maior = vetor[0]
 menor = vetor[0]
